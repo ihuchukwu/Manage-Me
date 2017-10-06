@@ -1,6 +1,6 @@
 # Manage Me
 
-A fast interactive personal or event management calendar with fullcalendar libraries being incorporated into Ruby on rails Application and creating events using unobtrusive javascript.
+A fast interactive personal and event management calendar with fullcalendar libraries being incorporated into Ruby on rails Application and creating events using unobtrusive javascript.
 
 # Getting Started
 With a procedural rule of thumb, the calendar process flow was practically arranged to be interactive. These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
