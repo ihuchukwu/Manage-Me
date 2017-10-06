@@ -29,5 +29,12 @@ You need to install the the foolowing software on your machine
 4. All the scripts are listed in
    app/assets/javascripts/application.js manifest
    
+# Acknowledgments
+
+* Class teacher - BJ Cantlupe and TA's Jack Linton & O. Danailov
+* Hat tip to anyone who's code was used
+Inspiration
+etc
+   
 # Deployment
 The Manage-Me app is deployed in hosting server heroku
