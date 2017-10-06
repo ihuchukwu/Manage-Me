@@ -30,4 +30,4 @@ You need to install the the foolowing software on your machine
    app/assets/javascripts/application.js manifest
    
 # Deployment
-The Manage-Me app is deployed in heroku
+The Manage-Me app is deployed in hosting server heroku
