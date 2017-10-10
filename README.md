@@ -39,6 +39,6 @@ etc
 # Deployment
 The Manage-Me app is deployed in hosting server heroku
 * https://obscure-mesa-62070.herokuapp.com
-pseudo sign-in iformation:
+# pseudo sign-in iformation:
 * Email:     me@me.com
 * Password:  q123456
